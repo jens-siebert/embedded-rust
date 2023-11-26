@@ -10,7 +10,7 @@ Code for Blinky example from the Embedded Rust talk given at the IoT Hessen Meet
 ## Getting started
 
 - Clone this repo.
-- Install thumbv6m-none-eabi target for the Rust compiler: ```cargo target add thumbv6m-none-eabi```.
+- Install thumbv6m-none-eabi target for the Rust compiler: ```rustup target add thumbv6m-none-eabi```.
 - Install elf2uf2 runner: ```cargo install elf2uf2-rs```
 
 ## Run the program
